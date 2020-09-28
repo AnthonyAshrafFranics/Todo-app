@@ -1,0 +1,64 @@
+body{
+    background-color: black !important;
+    line-height: 0;
+}
+.todoItem{
+    background-color: white;
+    border-radius: 25px;
+    /* width: 350px; */
+    height: 45px;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+
+}
+.fa-plus-circle{
+    color: #80ff00;
+    font-size: 40px;
+    padding: 0px;
+    margin: 0px;
+}
+.fa-trash-alt{
+    color: red;
+    font-size: 35px;
+    padding: 0px;
+    margin: 0px;
+}
+.btnPlus{
+    border-radius: 50%;
+    background-color: black;
+    border: none;
+    height:52px;
+}
+.style{
+    color: #80ff00;
+}
+ul{
+    font-size: 25px;
+    list-style-type: none;
+}
+.btnEdit{
+    margin-left:50px;
+    font-size: 20px;
+    color: #80ff00;
+    background-color: black;
+    border:none;
+
+}
+.btnDelete{
+    font-size: 20px;
+    color:red;
+    background-color: black;
+    border:none;
+}
+.listItem{
+    padding-left:0px;
+    border-bottom:1px solid chartreuse;
+    padding:5px;
+    margin-left: 0px;
+    margin-top: 10px;
+    color:grey;
+}
